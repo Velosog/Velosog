@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel 👋
+### Hi, I'm Gabriel 
 
 Backend developer from Brazil working with **PHP/Laravel** on a product team at ZeroFila (Sicredi), building ordering, delivery and reservation software for restaurants. I also build full-stack projects with **Next.js, TypeScript and PostgreSQL/Supabase**.
 
